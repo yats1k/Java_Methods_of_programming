@@ -1,9 +1,9 @@
-package java.first_chapter.second_part;
+package practice.first_chapter.second_part;
 
 /*
 Precondition for all package: Ввести с консоли n целых чисел. На консоль вывести:
 
-"Счастливые" числа
+Четные и не четные числа
  */
-public class Task11 {
+public class Task1 {
 }

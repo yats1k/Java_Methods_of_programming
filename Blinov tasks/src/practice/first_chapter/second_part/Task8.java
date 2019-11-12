@@ -1,9 +1,9 @@
-package java.first_chapter.second_part;
+package practice.first_chapter.second_part;
 
 /*
 Precondition for all package: Ввести с консоли n целых чисел. На консоль вывести:
 
-Четные которые делятся на 3 и 9
+Простые числа
  */
-public class Task3 {
+public class Task8 {
 }

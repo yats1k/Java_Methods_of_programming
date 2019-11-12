@@ -1,9 +1,9 @@
-package java.first_chapter.second_part;
+package practice.first_chapter.second_part;
 
 /*
 Precondition for all package: Ввести с консоли n целых чисел. На консоль вывести:
 
-Четные и не четные числа
+Четные которые делятся на 5 и 7
  */
-public class Task1 {
+public class Task4 {
 }

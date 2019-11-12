@@ -1,9 +1,9 @@
-package java.first_chapter.second_part;
+package practice.first_chapter.second_part;
 
 /*
 Precondition for all package: Ввести с консоли n целых чисел. На консоль вывести:
 
-Четные которые делятся на 5 и 7
+Наибольшее и наименьшее число
  */
-public class Task4 {
+public class Task2 {
 }

@@ -1,9 +1,9 @@
-package java.first_chapter.second_part;
+package practice.first_chapter.second_part;
 
 /*
 Precondition for all package: Ввести с консоли n целых чисел. На консоль вывести:
 
-Наибольшее и наименьшее число
+"Счастливые" числа
  */
-public class Task2 {
+public class Task11 {
 }
