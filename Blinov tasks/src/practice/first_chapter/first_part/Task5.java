@@ -22,12 +22,12 @@ public class Task5 {
     /**
      * Get multiplication of numbers.
      *
-     * @param args array of numbers
+     * @param args           array of numbers
      * @param multiplication int = 1 default start value
      * @return int result
      */
     private static int getMultiplication(String[] args, int multiplication) {
-        if(multiplication == 0){
+        if (multiplication == 0) {
             multiplication = 1;
         }
         for (String arg : args) {
@@ -40,12 +40,12 @@ public class Task5 {
      * Get sum of numbers.
      *
      * @param args array of numbers
-     * @param sum int = 0 default start value
+     * @param sum  int = 0 default start value
      * @return int result
      */
     private static int getSum(String[] args, int sum) {
         for (String arg : args) {
-          sum += Integer.parseInt(arg);
+            sum += Integer.parseInt(arg);
         }
         return sum;
     }

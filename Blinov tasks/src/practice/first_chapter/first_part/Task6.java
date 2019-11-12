@@ -9,6 +9,6 @@ public class Task6 {
     private static final String DATE = "11/12/2019";
 
     public static void main(String[] args) {
-        System.out.println(String.format("Author: %s1\nDate: %s2",Task6.AUTHOR, Task6.DATE));
+        System.out.println(String.format("Author: %s1\nDate: %s2", Task6.AUTHOR, Task6.DATE));
     }
 }

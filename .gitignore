@@ -1,0 +1,10 @@
+*.log
+.idea
+*.iml
+full-reflog.txt
+out
+target
+
+*.png
+.*7z
+
