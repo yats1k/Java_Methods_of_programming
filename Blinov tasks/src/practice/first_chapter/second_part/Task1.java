@@ -21,7 +21,7 @@ public class Task1 {
             input = scanner.nextLine();
         }
 
-        //write inputed string to array
+        //write entered string to array
         String[] array = input.split("\\D+");
         for (String string : array) {
             System.out.println(string);

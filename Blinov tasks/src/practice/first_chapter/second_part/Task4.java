@@ -6,4 +6,5 @@ Precondition for all package: Ввести с консоли n целых чис
 Четные которые делятся на 5 и 7
  */
 public class Task4 {
+
 }
